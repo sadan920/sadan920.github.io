@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "内网信息收集常用命令"
+subtitle:   "基础小结"
+date:       2021-1-21
+author:     "Tregear"
+header-img: "img/111.jpg"
+tags:
+    - 内网学习
+---
+
+> 无论内外网渗透，本质都是信息收集以及漏洞利用，本文对一些基础的命令做一下小结。
+
+## 网络配置
+
+ipconfig /all(加上/all,可以查看是否有域)
+
+<img class="shadow" src="/img/20210121_1.jpg">
+
+
+
